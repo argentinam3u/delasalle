@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13 BUENOS AIRES HD
-http://181.78.208.254:8010/play/a09j/index.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v4a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", TELEFE BUENOS AIRES
