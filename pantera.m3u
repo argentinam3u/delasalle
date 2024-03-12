@@ -10,8 +10,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", TELEFE BUENOS AIRES
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", Telefe Buenos Aires Señal De prueba
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1710194580~exp=1710201780~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f6b65bb0f38a50926a96ee4e7c5c4b1346f9b259df9a2ba152df1f4840e34755
+
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA
