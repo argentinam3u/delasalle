@@ -59,15 +59,14 @@ http://181.78.208.254:8010/play/a008/index.m3u8
 http://45.172.218.126:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="BUENOS AIRES", CANAL 8 MAR DEL PLATA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0156
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0158
 
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR INTERNATIONAL 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvpublica.com.ar/static/img/branding/isologo.svg" group-title="NACIONALES", Television Publica Argentina
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0063
-
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0065
 
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
@@ -88,12 +87,12 @@ http://45.172.218.126:8000/play/a00n/index.m3u8
 http://45.172.218.126:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.c5n.com/css-custom/326/images/logo-c5n.svg" group-title="NACIONALES",C5N HD
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0070
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
 
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="NACIONALES",TN Todo Noticias 
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0052
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0053
 
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS INTERNACIONALES", DW ESPAÑOL
@@ -105,17 +104,18 @@ http://190.90.154.73:8080/play/a03a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2023/01/logo-texto-gris.png" group-title="MENDOZA",CANAL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0294
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0296
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 24 HORAS
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0066
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0068
 
 
 
 
 #EXTINF:-1 tvg-id="MusicTop.ar" tvg-logo="https://1.bp.blogspot.com/-qxyuiw-51EA/X87iUEZLoPI/AAAAAAAA7i4/iUAmvdMqID0mUMlZnAiFiCgk359CtAyjgCLcBGAsYHQ/s0/musictop_logo.png" group-title="NACIONALES", MUSIC TOP
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0042
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0043
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", HTV HD
 http://186.148.163.18:8000/play/a05s/index.m3u8
@@ -123,7 +123,7 @@ http://186.148.163.18:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="NACIONALES", TERRAMIA TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0050
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 
 
 #EXTINF:-1  group-title="LATINOS" ,MTV HD
@@ -189,7 +189,7 @@ https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://www.canal26.com/images/canal26_logo.svg" group-title="NOTICIAS NACIONALES", CANAL 26 ARGENTINA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0077
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0079
 
 
 
@@ -225,7 +225,7 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
-http://209.45.101.38:8000/play/a0au
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
 
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
