@@ -10,7 +10,7 @@ http://177.53.153.20:8001/play/a0by/index.m3u8
 http://177.53.153.20:8001/play/a03k/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", Telefe Argentina SEÑAL PANTERA TV TUNUYAN MENDOZA 
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", Telefe Argentina Señal Oficial
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
