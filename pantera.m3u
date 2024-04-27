@@ -6,8 +6,8 @@
 #EXTINF:-1 group-title="LATINO" , ESTRELLA DE CANAL HD
 http://177.53.153.20:8001/play/a0by/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://177.53.153.20:8001/playlist/tvg-logo/a053" group-title="LATINO TV", GOLDEN PREMIER HD
-http://177.53.153.20:8001/play/a053/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="LATINO TV", Animal Planet HD
+http://177.53.153.20:8001/play/a03k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="NACIONALES", Telefe Argentina SEÑAL PANTERA TV TUNUYAN MENDOZA 
@@ -400,8 +400,6 @@ http://45.172.218.126:8000/play/a00t/index.m3u8
 http://45.172.218.126:8000/play/a00a/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="LATINO TV", Animal Planet HD
-http://45.172.218.126:8000/play/a00g/index.m3u8
 
 
 
