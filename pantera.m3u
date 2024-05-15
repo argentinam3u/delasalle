@@ -3,8 +3,8 @@
 
 
 
-#EXTINF:-1 group-title="LATINO" , ESTRELLA DE CANAL HD
-https://cs1.xcast.com.br/7214/7214/playlist.m3u8
+#EXTINF:-1 group-title="LATINO" , MUSIC TOP PRUEBA
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/AMERICA.png" group-title="NACIONALES", AMERICA TV
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
