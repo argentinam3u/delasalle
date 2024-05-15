@@ -28,7 +28,7 @@ http://181.78.208.254:8010/play/a00k/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV",Ciudad magazine
-https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+https://cs1.xcast.com.br/7214/7214/playlist.m3u8
 
 #EXTINF:-1,Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
