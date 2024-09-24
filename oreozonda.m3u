@@ -32,9 +32,8 @@ http://181.191.140.2:8000/play/a0g8/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
-#EXTINF:-1,Cinemax HD
-http://190.90.154.73:8080/play/a022/index.m3u8
-
+#EXTINF:-1, EL TIEMPO
+https://d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8
 
 #EXTINF:-1,Canal 24 Horas HD
 http://186.148.163.18:8000/play/a04v/index.m3u8
