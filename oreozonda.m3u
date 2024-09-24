@@ -28,8 +28,8 @@ http://181.191.140.2:8000/play/a0g8/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV",Ciudad magazine
-https://cs1.xcast.com.br/7214/7214/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Canal Estrella
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
 #EXTINF:-1,Cinemax HD
 http://190.90.154.73:8080/play/a022/index.m3u8
