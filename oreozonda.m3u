@@ -129,7 +129,7 @@ http://186.148.163.18:8000/play/a05s/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2022/02/terramiatvok.jpg" group-title="NACIONALES", TERRAMIA TV
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/0/playlist.m3u8
 
 
 #EXTINF:-1  group-title="LATINOS" ,MTV HD
