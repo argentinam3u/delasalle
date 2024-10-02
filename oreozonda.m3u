@@ -110,7 +110,7 @@ http://190.90.154.73:8080/play/a03a/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2023/01/logo-texto-gris.png" group-title="MENDOZA",CANAL SIETE MENDOZA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1727904547/ei/w2b9ZoHaD9GV-LAPsLGW4Qs/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/Vh8xmLBJtR8.292/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/spc/54MbxbwfULdGcVEZCxJK_QSIZj3QIpVi4fniPTBtaUkB21DmWe1ipkFgWw7W/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALD3oCezknBG_o91jBeo4oBNudeZuzcbkg2d8-n4wIGGAiBOapeKSrZsZ7gMFYwek81loAvjwuvBWOH4AbUXEGWiLA%3D%3D/file/index.m3u8
+http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 24 HORAS
