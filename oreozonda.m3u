@@ -3,8 +3,8 @@
 
 
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", Canal Trece
+http://201.217.246.177:8000/play/a06d/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://www.canal26.com/images/canal26_logo.svg" group-title="NOTICIAS NACIONALES", CANAL 26 TV ARGENTINA
@@ -26,9 +26,9 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NACIONALES", C5N
+http://181.209.125.237:9000/play/a039/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
-http://181.191.140.2:8000/play/a0g8/index.m3u8
 
 
 
@@ -71,9 +71,8 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0144
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR INTERNATIONAL 
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvpublica.com.ar/static/img/branding/isologo.svg" group-title="NACIONALES", Television Publica Argentina
-http://181.191.140.2:8000/play/a0hd/index.m3u8
-
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
+http://200.80.230.123:8000/play/a0a8/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
 https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
