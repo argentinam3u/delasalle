@@ -2,6 +2,13 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Español" group-title="Internacionales", CNN en Español
+http://200.113.4.75:7210/play/a005/index.m3u8
+
+
+#EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" ​​tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="Internacionales", Telemundo Internacional
+http://200.113.4.75:7210/play/a018/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", Canal Trece
 http://201.217.246.177:8000/play/a06d/index.m3u8
@@ -27,6 +34,14 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [No 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
+http://143.0.67.75:8000/play/a07b/index.m3u8
+
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
+http://143.0.67.75:8000/play/a01s/index.m3u8
 
 
 
@@ -78,31 +93,22 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-logo="https://fotos.perfil.com/2024/03/27/trim/987/555/tv-publica-1777165.jpg?webp" group-title="NACIONALES", TV PUBLICA  
 http://200.80.230.123:8000/play/a0a8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
-https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa" group-title="Culturales", Encuentro
+http://143.0.67.75:8000/play/a01m/index.m3u8
 
 
 
 #EXTINF:-1,DHE HD
 http://138.59.177.34:8000/play/a038/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Logo_Fox_Sports_Argentina_2023.png/577px-Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTIVOS", FOX SPORTS
-http://45.172.218.126:8000/play/a01v/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/323px-Fox_Sports_2_Argentina_2023.svg.png" group-title="DEPORTIVOS", DEPORTES DE ZORRO 2
-http://45.172.218.126:8000/play/a00n/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/323px-Fox_Sports_3_Argentina_2023.svg.png" group-title="DEPORTIVOS", DEPORTES DE ZORRO 3
-http://45.172.218.126:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.c5n.com/css-custom/326/images/logo-c5n.svg" group-title="NACIONALES",C5N HD
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0072
+http://143.0.67.75:8000/play/a01p/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----TN.png" group-title="NACIONALES",TN Todo Noticias 
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-
+http://143.0.67.75:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/900335405580550144/EpLMIlFW_400x400.jpg" group-title="NOTICIAS INTERNACIONALES", DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
