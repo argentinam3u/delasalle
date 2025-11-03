@@ -25,6 +25,10 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [No 24/7]
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NACIONALES", C5N
 http://181.209.125.237:9000/play/a039/index.m3u8
