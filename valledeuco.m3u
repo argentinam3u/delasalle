@@ -55,8 +55,8 @@ http://181.209.125.237:9000/play/a039/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
-#EXTINF:-1, EL TIEMPO
-https://d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8
+#EXTINF:-1, Radio Mitre 
+https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8
 
 #EXTINF:-1,Telemax Argentina
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
