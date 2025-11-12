@@ -31,6 +31,8 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA ARGENTINA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI486.png" group-title="MAR DEL PLATA", Canal 8 - Mar del Plata TV
+https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1762972544&wowzatokenstarttime=0&wowzatokenhash=XcC2jtsX8-pSR06OVMX1DGbJyQKiFnu8EB-6olcQOGI=
 
 #EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [No 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
