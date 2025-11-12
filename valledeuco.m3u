@@ -9,6 +9,9 @@ http://200.113.4.75:7210/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" ​​tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="Internacionales", Telemundo Internacional
 http://200.113.4.75:7210/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?dpssid=b23436798896914d30e3b0a2&sid=ba5t1l1xb217139280026914d30e3b09d&ndvc=1
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", Canal Trece
 http://201.217.246.177:8000/play/a06d/index.m3u8
