@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
+http://143.0.67.75:8000/play/a07j/index.m3u8
+
 
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Español" group-title="Internacionales", CNN en Español
 http://200.113.4.75:7210/play/a005/index.m3u8
