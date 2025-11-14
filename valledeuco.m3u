@@ -21,6 +21,9 @@ http://200.113.4.75:7210/play/a018/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 http://190.104.67.135:234/play/a07c/index.m3u8
 
+#EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" audio-track="spa" group-title="Telenovelas", Pasiones
+http://179.1.148.246:8888/play/a0f8/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?dpssid=b23436798896914d30e3b0a2&sid=ba5t1l1xb217139280026914d30e3b09d&ndvc=1
 
