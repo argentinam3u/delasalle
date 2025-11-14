@@ -18,6 +18,9 @@ http://200.113.4.75:7210/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" ​​tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="Internacionales", Telemundo Internacional
 http://200.113.4.75:7210/play/a018/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
+http://190.104.67.135:234/play/a07c/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?dpssid=b23436798896914d30e3b0a2&sid=ba5t1l1xb217139280026914d30e3b09d&ndvc=1
 
@@ -62,6 +65,15 @@ http://143.0.67.75:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NACIONALES", C5N
 http://181.209.125.237:9000/play/a039/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://172.93.102.112:8989/279390_.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gt5ju7.com/wp-content/uploads/2024/09/directv.png" group-title="Tango Sports", DSPORTS
+http://190.108.89.228:8000/play/a05w/index.m3u8
+
 
 
 
@@ -91,12 +103,7 @@ https://github.com/argentinam3u/tvvalledeuco/raw/main/telefe.streamPlaylist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://tntsports.com.ar/__export/1610632360826/sites/tntsports/arte/logo_20210114.svg" group-title="DEPORTES", TNT SPORTS
-http://181.78.208.254:8010/play/a008/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="DEPORTIVO", ESPN  
-http://45.172.218.126:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="BUENOS AIRES", CANAL 8 MENDOZA
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
@@ -207,13 +214,11 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="NOTICIAS NACIONALES", RURAL TV
-https://cda2.alsolnet.com/elrural/live/playlist.m3u8
+http://190.104.67.230:234/play/a06k/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="FUTBOL ARG", TELEFE DEPORTES
-https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8 
 
 
 
@@ -241,14 +246,14 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b8
 
 
 #EXTINF:-1 tvg-id="Cinear.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/cine-ar.png" group-title="NACIONALES", CINEAR ARGENTINA 
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+http://201.217.246.177:8000/play/a024/index.m3u8
+
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="NACIONALES", DEPORTV ARGENTINA
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="NACIONALES", TyC SPORTS 
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0054
+
 
 
 #EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="NACIONALES", GARAGE TV
@@ -272,26 +277,16 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
  
  
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="https://consejo.pakapaka.gob.ar/images/header/pakapaka.svg" group-title="INFANTIL", PAKA PAKA  
-https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
- 
- 
+http://138.121.114.86:8000/play/a05t/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="NACIONALES", AUNAR ARGENTINA
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/.m3u8
- 
- 
-#EXTINF:-1 grupo-título="LATINO" ,Disney HD
+http://200.106.13.204:8000/play/a0ev/index.m3u8
 
-http://45.172.218.126:8000/play/a00v/index.m3u8 
  
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="DEPORTIVO", ESPN  
-http://45.172.218.126:8000/play/a03s/index.m3u8
+ 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="DEPORTIVO", ESPN 2
-http://45.172.218.126:8000/play/a00z/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn3.png" group-title="DEPORTIVO", ESPN 3
-http://45.172.218.126:8000/play/a00x/index.m3u8
 
  
 
@@ -303,16 +298,9 @@ http://45.172.218.126:8000/play/a00x/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="CLASICOS" ,TELEFE CLASICO (SEÑAL INTERNACIONAL- SD)
-https://5f700d5b2c46f.streamlock.net/elsellotv/elsellotv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-ck-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
-http://131.161.53.2:8000/play/a01i/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-ck-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 2
-http://131.161.53.2:8000/play/a045/index.m3u8
 
  
 
@@ -324,37 +312,10 @@ http://131.161.53.2:8000/play/a045/index.m3u8
  
 
  
-#EXTINF:-1 grupo-title="PELÍCULAS" ,Sony HD
-http://45.191.234.189:15082/play/a02h/index.m3u8
- 
-#EXTINF:-1 group-title="PELÍCULAS" ,Studio Universal HD
-http://45.191.234.189:15082/play/a030/index.m3u8
- 
-#EXTINF:-1 grupo-título="LATINO" ,Sun Channel HD
-http://45.191.234.189:15082/play/a02q/index.m3u8
- 
-#EXTINF:-1 group-title="PELÍCULAS" ,A&E HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/20
- 
-#EXTINF:-1 group-title="PELÍCULAS" ,AXNHD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/21
- 
-#EXTINF:-1 tvg-logo="http://181.78.107.39:4000/playlist/tvg-logo/a08s.png" group-title="PELÍCULAS" ,HBO HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/120
- 
-#EXTINF:-1 group-title="PELÍCULAS" , TNT HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/74
- 
-#EXTINF:-1 group-title="PELÍCULAS" , Serie TNT HD
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/33
 
 
-#EXTINF:-1,Latino | TNT Novelas
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/39
 
 
- #EXTINF:-1,Latino | USA Network
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/31
  
 
  
@@ -369,72 +330,26 @@ https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0224
 
 
 
 
-#EXTINF:-1 group-title="PELICULAS", FX HD
-http://45.191.234.189:15082/play/a02u/index.m3u8
 
 
 
-#EXTINF:-1 group-title="PELICULAS" , SPACE HD
-http://45.228.232.219:16000/play/a0oe/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.conceptofm.com.ar/nuevaweb/wp-content/uploads/2022/06/logo.png" group-title="RADIOS", RADIO CONCEPTO FM 95.5 BUENOS AIRES (SOLO AUDIO) 
 https://radios.solumedia.com:6002/stream
 
 
 
-#EXTINF:-1 group-title="LATINOS",Univisión HD
-http://45.166.92.22:58001/play/a01r/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", History 2 HD
-http://45.172.218.126:8000/play/a01w/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", History Channel HD
-http://45.172.218.126:8000/play/a013/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", ID HD
-http://45.172.218.126:8000/play/a010/index.m3u8
-
-
-
-#EXTINF:-1 group-title="PELICULAS",CINE HISPANO
-http://45.191.234.189:15082/play/a022/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", CINE PREMIUN
-http://45.172.218.126:8000/play/a02w/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Canal 13 HD
-http://45.172.218.126:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", TVN HD
-http://45.172.218.126:8000/play/a00t/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Cinecanal HD
-http://45.172.218.126:8000/play/a00a/index.m3u8
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Pasiones_TV_2008.png/revision/latest?cb=20210417225017&path-prefix=es" group-title="LATINO TV", Pasiones HD
-http://45.172.218.126:8000/play/a00u/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2021/03/paramount-plus-logo-0.png" group-title="PELICULAS" ,Paramount HD
-http://45.166.92.22:58001/play/a01l/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", UNIVERSAL CHANNEL HD
-http://45.172.218.126:8000/play/a00l/index.m3u8
 
 
 
@@ -451,82 +366,10 @@ https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 
 
-#EXTINF:-1  group-title="LATINOS",Antena 3
-http://45.166.92.22:58001/play/a041/index.m3u8
-
-
-
-#EXTINF:-1 group-title="LATINOS",HBO HD
-http://186.148.163.18:8000/play/a04i/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", GolTV HD Respaldo
-http://45.172.218.126:8000/play/a03n/index.m3u8
-
-
-
-#EXTINF:-1 group-title="LATINOS",HBO Plus HD
-http://45.166.92.22:58001/play/a03u/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery H&H HD
-http://45.172.218.126:8000/play/a00i/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery HD
-http://45.172.218.126:8000/play/a01u/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery Kids HD
-http://45.172.218.126:8000/play/a00h/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery Science
-http://45.172.218.126:8000/play/a02e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery Theater HD
-http://45.172.218.126:8000/play/a00j/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery Turbo
-http://45.172.218.126:8000/play/a024/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Discovery World HD
-http://45.172.218.126:8000/play/a009/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", FX HD
-http://138.59.177.34:8000/play/a035/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", AMC HD
-http://190.90.154.73:8080/play/a03e/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", SyFy
-http://45.172.218.126:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", El Gourmet HD
-http://45.172.218.126:8000/play/a012/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Nat Geo HD
-http://45.172.218.126:8000/play/a008/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", TLC
-http://45.172.218.126:8000/play/a020/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATINO TV", Win Sports+ HD
-http://45.172.218.126:8000/play/a00f/index.m3u8
 
 
 
 
 
 
-#EXTINF:-1,Latino | Estreno universal
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1661
-#EXTINF:-1,Latino | cine universal
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1662
-#EXTINF:-1,Latino | Crimen universal
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1663
-#EXTINF:-1,Latino | Realidad Universal
-http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1664
+
