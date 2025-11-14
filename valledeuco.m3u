@@ -209,8 +209,8 @@ http://190.90.154.73:8080/play/a03a/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.elsietetv.com.ar/wp-content/uploads/2023/01/logo-texto-gris.png" group-title="MENDOZA",CANAL SIETE MENDOZA
-http://www.radiosargentina.com.ar/php/tvm3uYT.php?id=YTAR0274
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmZXUMTPaLjslA4b0_5Jq-J1re_XruOWA0uqV5fuBiOZJCwYCKQtrZtMZsanXU4w8R8-fiLHPfOJ70pRcB7FZdBJs_KD5S8bSUT wGbvCrOzL9L5QOdDlYhquReKtiOH3I5SJBtoBnbQo1_L8leA1oj1q1ZEv0aV6vD9Mvq3RPtYeD-yOjelQHIL3GLRk/s200-rw/large.242828769_ElSieteMendoza.png.4a00e8a203d1058a5898ebce876d7d19.png" group-title="MENDOZA", SIETE MENDOZA
+https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 24 HORAS
@@ -338,7 +338,7 @@ https://g4.mc-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_a
 
 
 #EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES ", IP NOTICIAS 
-http://190.11.130.46/mnp/telefe/output.mpd
+http://45.5.150.5:9000/play/a0kn/index.m3u8
 
  
 #EXTINF:-1 tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="AMBA", Urbana TeVe LA PLATA - BUENOS AIRES
