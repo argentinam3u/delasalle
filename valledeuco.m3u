@@ -434,6 +434,68 @@ https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
 https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
+http://190.104.67.135:234/play/a06s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="NACIONALES", EL FOLKLORICO
+https://stream.t5satelital.blog/hls/elfolklorico.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3McziTZ5M5VJkRn4IBIPAh/53add865f835209e59decf37bacb705e/Metro.png?fm=webp&q=80" group-title="NACIONALES" , METRO
+http://201.217.246.177:8000/play/a02g/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/Mq0oDJsOGLGwmqR3jljjd/3b623163d3192f59a41720d0418c2813/canal-volver.png?fm=webp&q=80" group-title="NACIONALES" , VOLVER
+http://201.217.246.177:8000/play/a021/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVrxAPgT69_uu-F6X90VRLZC8tAXQk3kZg5g&s" group-title="NACIONALES" , AMC
+https://amc-amcespanol-1-us.vizio.wurl.tv/4300.m3u8
+
+
+#EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="NACIONALES", El Gourmet
+http://201.217.246.177:8000/play/a06w/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="NACIONALES", LATINA RADIO FM 101.1
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+
+#EXTINF:-1 título de grupo="LATINO",Animal Planet HD
+http://179.1.148.246:8888/play/a0f6/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Cinemax HD
+http://179.1.148.246:8888/play/a0d8/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",De PelŦcula
+http://179.1.148.246:8888/play/a0a8/index.m3u8
+
+
+#EXTINF:-1 título de grupo="LATINO",Comedy Central HD
+http://179.1.148.246:8888/play/a0bv/index.m3u8
+
+
+#EXTINF:-1 título de grupo="LATINO",DHE HD
+http://179.1.148.246:8888/play/a0f2/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery Channel HD
+http://179.1.148.246:8888/play/a0f9/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery H&H HD
+http://179.1.148.246:8888/play/a0fu/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery Kids HD
+http://179.1.148.246:8888/play/a0j6/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Ciencia del descubrimiento
+http://179.1.148.246:8888/play/a0fi/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery Theater HD
+http://179.1.148.246:8888/play/a0eo/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery Turbo
+http://179.1.148.246:8888/play/a0d7/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Discovery World HD
+http://179.1.148.246:8888/play/a0j7/index.m3u8
+
 
 
 
