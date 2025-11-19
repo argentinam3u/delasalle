@@ -500,8 +500,8 @@ http://179.1.148.246:8888/play/a0j7/index.m3u8
 #EXTINF:-1 group-title="LATINO",NTN 24 Horas
 http://179.1.148.246:8888/play/a09w/index.m3u8
 
-#EXTINF:-1 group-title="LATINO 2", El Canal de las Estrellas
-http://190.104.67.111:234/play/a07x/index.m3u8
+#EXTINF:-1 group-title="LATINO",Las Estrellas HD
+http://179.1.148.246:8888/play/a0dg/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
 http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
@@ -518,4 +518,45 @@ http://liketv.pro:80/User1626/28TM4MEU66/67107.ts
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/26kcx0bBMEXfcFCR7gea7t/1c1b48583ea217a1a21020d12a8e0d3a/universal-reality.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Reality
 http://liketv.pro:80/User1626/28TM4MEU66/11.ts
 
+#EXTINF:-1 group-title="LATINO",Golden Edge
+http://179.1.148.246:8888/play/a0a4/index.m3u8
 
+#EXTINF:-1 group-title="LATINO",Golden HD
+http://179.1.148.246:8888/play/a09f/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",Golf Channel
+http://179.1.148.246:8888/play/a0a0/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO 2
+http://179.1.148.246:8888/play/a0aa/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO Family HD
+http://179.1.148.246:8888/play/a0di/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO HD
+http://179.1.148.246:8888/play/a0c6/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO MUNDI
+http://179.1.148.246:8888/play/a0aq/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO POP HD
+http://179.1.148.246:8888/play/a0j4/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO Plus
+http://179.1.148.246:8888/play/a0a9/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO Signature
+http://179.1.148.246:8888/play/a0ap/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HBO XTREME HD
+http://179.1.148.246:8888/play/a0ex/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HGTV
+http://179.1.148.246:8888/play/a0fm/index.m3u8
+
+#EXTINF:-1 group-title="LATINO",HTV
+http://179.1.148.246:8888/play/a09v/index.m3u8
+
+
+#EXTINF:-1 group-title="LATINO",Latina HD
+http://179.1.148.246:8888/play/a0ek/index.m3u8
