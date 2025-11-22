@@ -592,4 +592,27 @@ https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
 
 
+#EXTINF:-1 tvg-id="rcn-mas" tvg-name="rcn-mas" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/47e355205f52fac9aa8e4ba28d96cf94.png" group-title="ENTRETENIMIENTO" , RCN Más
+https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_RCNMas/playlist.m3u8?ads.wurl_channel=926
 
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Películas de tiempo de ejecución
+https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Acción en tiempo de ejecución
+https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Comedia en tiempo real
+https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Crimen en tiempo real
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Terror en tiempo real
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Romance de duración
+https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Runtime Familia
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
