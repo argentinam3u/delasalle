@@ -616,3 +616,10 @@ https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png" group-title="CINE", Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", PELÍCULAS DE MI TIEMPO 1
+https://appletree-mytimespain-rakuten.amagi.tv/lista de reproducción.m3u8
+
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE", PELÍCULAS DE MI TIEMPO 2
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
