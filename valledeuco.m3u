@@ -566,3 +566,24 @@ http://179.1.148.246:8888/play/a09v/index.m3u8
 
 #EXTINF:-1 group-title="LATINO",Latina HD
 http://179.1.148.246:8888/play/a0ek/index.m3u8
+
+
+#EXTINF:-1 tvg-id="60d393e5579a420007ee553c" tvg-name="Casos de la Dra. Polo" tvg-logo="https://images.pluto.tv/channels/60d393e5579a420007ee553c/colorLogoPNG.png" group-title="ENTRETENIMIENTO" tvg-chno="4390", Casos de la Dra. Polo
+https://stitcher.pluto.tv/stitch/hls/channel/60d393e5579a420007ee553c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a414264a-9c45-11f0-9bd9-c2d28ebbc8c3
+
+
+#EXTINF:-1 tvg-id="632b5950b515b000079e6b81" tvg-name="CSI: Miami en español" tvg-logo="https://images.pluto.tv/channels/632b5950b515b000079e6b81/colorLogoPNG_1731837336190.png" group-title="SERIE" tvg-chno="4260", CSI: Miami en español
+https://stitcher.pluto.tv/stitch/hls/channel/632b5950b515b000079e6b81/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=a414264a-9c45-11f0-9bd9-c2d28ebbc8c3
+
+
+#EXTINF:-1 tvg-id="60e45687313c5f0007bc8e94" tvg-name="El encantador de perros" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png" group-title="ENTRETENIMIENTO" tvg-chno="157", El encantador de perros
+https://stitcher.pluto.tv/stitch/hls/channel/60e45687313c5f0007bc8e94/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=57962829-9c45-11f0-a6c7-da07a59f1ecb
+
+
+#EXTINF:-1 tvg-id="66a26a7846762a0008258d4e" tvg-name="Guardianes de la Bahía" tvg-logo="https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png" group-title="SERIE" tvg-chno="240", Guardianes de la Bahía
+https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
+
+
+#EXTINF:-1 tvg-id="63eb95baa99571000898a078" tvg-name="MacGyver" tvg-logo="https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png" group-title="SERIE" tvg-chno="235", MacGyver
+https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=91508f22-9c45-11f0-a2e8-e6529e9ee743
+
