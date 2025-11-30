@@ -642,8 +642,7 @@ https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/Cadena3/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3299-294x165-FFFFFF.jpg" group-title="CORDOBA", CIUDAD MAGICA TV
-https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://radiosargentina.com.ar/png/VICANALU.png" group-title="CORDOBA", CANAL U CORDOBA
+https://stream.arcast.live/canalu/canalu/chunklist_w1872889393.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c9f33e33-1e65-49ea-adc7-fc8531bfdc54-profile_image-150x150.png" group-title="CORDOBA", TELEDIARIO
-https://broker.cdn.rcs.net.ar/mnp/imperio/output.mpd
+
