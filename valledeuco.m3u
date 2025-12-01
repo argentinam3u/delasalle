@@ -662,3 +662,6 @@ http://179.1.148.246:8888/play/a0fj/index.m3u8
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" pista de audio="spa" título del grupo="TELECENTRO", MTV
 http://179.1.148.246:8888/play/a0c7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/FgFGNa1nlJe1421Gml6tS/973fd196608694bb8250967c8dd026c9/120_NickMusic.png?fm=webp&q=80" título del grupo="TELECENTRO", Nick Music
+http://157.100.9.51:8000/play/a0ep
