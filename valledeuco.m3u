@@ -726,4 +726,5 @@ https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://i0.wp.com/5900.tv/wp-content/uploads/2023/09/ciudadmagica.jpg?fit=800%2C450&ssl=1" grupo-título="LATINO",CIUDAD MAGICA
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
