@@ -717,3 +717,7 @@ http://190.233.83.45:1983/play/a1sk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logog.png?t=1" grupo-título="LATINO",ESTRELLAS NEWS
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-estrellamedia/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logog.png?t=1" grupo-título="LATINO",ESTRELLAS TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
