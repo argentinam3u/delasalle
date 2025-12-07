@@ -654,7 +654,7 @@ https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSON
 https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" group-title="TELECENTRO", USA PELICULAS
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/2/usa-network-logo-png_seeklogo-307539.png" group-title="TELECENTRO", USA PELICULAS
 http://200.80.230.123:8000/play/a023/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/50.png" group-title="TELECENTRO", E!
