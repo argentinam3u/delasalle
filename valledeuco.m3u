@@ -507,7 +507,7 @@ http://179.1.148.246:8888/play/a0j7/index.m3u8
 http://179.1.148.246:8888/play/a09w/index.m3u8
 
 #EXTINF:-1 group-title="LATINO",Las Estrellas HD
-http://179.1.148.246:8888/play/a0dg/index.m3u8
+http://190.233.83.45:1983/play/a1tm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
 http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
