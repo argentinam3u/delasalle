@@ -711,3 +711,5 @@ http://200.113.4.75:7210/play/a007/index.m3u8
 #EXTINF:-1,Zona Latina
 http://200.113.4.75:7210/play/a01i/index.m3u8
 
+#EXTINF:-1 grupo-título="LATINO",Movistar Deportes
+http://190.233.83.45:1983/play/a1sk/index.m3u8
