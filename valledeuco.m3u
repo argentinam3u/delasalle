@@ -721,3 +721,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-es
 
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s320627/images/logog.png?t=1" grupo-título="LATINO",ESTRELLAS TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-estrellamedia/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_galicia-tv_m.png" grupo-título="LATINO" GALICIA TV
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
