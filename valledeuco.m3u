@@ -736,3 +736,19 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-laboca.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1 (AUDIO SOLO)
+https://s24.myradiostream.com/14984/escuchar.mp3
+
+#EXTINF:-1 tvg-logo="https://launoenvivo.com/LaUno.png" group-title="RADIO-AMBA", LA UNO RADIO (SOLO AUDIO)
+https://playerservices.streamtheworld.com/api/livestream-redirect/UNO.mp3
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/8d/02/8d02ab7055e82b4a4d6deb9ffff0d6e0.jpg" group-title="RADIO-AMBA", RADIO BELGRANO (SOLO AUDIO)
+http://server.laradio.online:25223/live.mp3
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/LNLBAMOTa-uhns4Uhn_85ISKsE_bWFJY02jcFpfKLu53wjYQxSEs8e5--FA1lo28JA" group-title="RADIO-AMBA", RADIO ARGENTINA AM 570 (AUDIO SOLO)
+http://server.laradio.online:25224/live.mp3
+
+#EXTINF:-1 tvg-logo="https://fmfutura.com.ar/wp-content/uploads/2009/10/Futura-Podcast2.gif" group-title="RADIO-AMBA", RADIO FUTURA 90.5 LA PLATA (SOLO AUDIO)
+http://streamer.fmfutura.com.ar:8000/vivo.mp3
+
