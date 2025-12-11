@@ -752,3 +752,5 @@ http://server.laradio.online:25224/live.mp3
 #EXTINF:-1 tvg-logo="https://fmfutura.com.ar/wp-content/uploads/2009/10/Futura-Podcast2.gif" group-title="RADIO-AMBA", RADIO FUTURA 90.5 LA PLATA (SOLO AUDIO)
 http://streamer.fmfutura.com.ar:8000/vivo.mp3
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIHISPAN.png" group-title="LATINOS",Hispan TV 
+https://live.presstv.ir/hls/hispantv.m3u8
