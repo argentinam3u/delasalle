@@ -154,7 +154,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
 #EXTINF:-1, Radio Mitre 
-https://live-05-13-mitre.vodgc.net/live-05-13-mitre/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765596337/ei/UIg8aYfvPMebobIPrr_pgQo/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/ybXIVVg6epw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CeAJ-UDV349CyoqUlxk34IzdeqDpgN8uSjh2U536Xeb-nZ7jep5zVN-uoaO0cLXhLlLsCOsGge/spc/wH4Qq5-TW0T0ht2NprAaGxCwOrgCLKzw7qexdQqGxceusHJRsHU7NYJVMl0ZU5JpD3E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPszvJJidfg8-4YerDHo-5xnN-3KhL6nesZ-MxMHWYudAiBKD4B45VUvA9P1C_CKHymNJm3DS0wwGvIcAS7yrB-JUQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1,Telemax Argentina
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
