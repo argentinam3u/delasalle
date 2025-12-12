@@ -41,7 +41,7 @@ https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all/playlist_720p.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/46/1/telefe-logo-png_seeklogo-462510.png" group-title="NACIONALES", TELEFE ARGENTINA 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE ARGENTINA 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 
