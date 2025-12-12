@@ -33,7 +33,7 @@ https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://201.217.246.177:8000/play/a06d/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://www.canal26.com/images/canal26_logo.svg" group-title="NOTICIAS NACIONALES", CANAL 26 TV ARGENTINA
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="NOTICIAS NACIONALES", CANAL 26 TV ARGENTINA
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 
 
