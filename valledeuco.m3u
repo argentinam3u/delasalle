@@ -805,5 +805,11 @@ https://radiolinksmedia.net.ar/7105
 https://01.solumedia.com.ar:9030/stream
 
 
+#EXTINF:-1 tvg-logo="https://estaciondelsol.elsol.com.ar/img/radios/logo1009.svg" group-title="RADIOS ARGENTINAS", ESTACION DEL SOL MENDOZA (SOLO AUDIO)
+https://edge-recdirect.masterhost.com.ar/st1/icy/estacion_del_sol_1009/radio.mp3/:8100
+
+
+
+
 
 
