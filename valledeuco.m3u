@@ -775,3 +775,31 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765601400/ei/G
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL321.png" group-title="RADIOS ARGENTINAS",LRL321 VALE FM 97.5 TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765601604/ei/5Jw8abieEJ2f-LAPkJyC6Qw/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/FnNq66L9sJg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539830/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AYUSA3Arr5spi-lRe4wCqxsfqzj9MRMWeV6HYhkElP_UZiAVJccpe7xtQo-fnGBs1dRrikth-Sa5vFn9/spc/wH4QqwzpV2gdAxzTcIqrhTAUCn90VRLHuso81hNoC4UHmgFaNxAgBcJc_m-rS0Z94U4/vprv/1/go/1/ns/aCwUbJsxyS8kmss9eQumK0wR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/n/7r3pBlyJk86dJIX/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRjzIdaQzARBo1C0awvMNZPKvg29GEZXQVqSlWmdM0QsCIQCxYUxTCLg2trPQ79dUKev-32J-BFIGsU0lGHDCUc4I-w%3D%3D/file/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="RADIOS ARGENTINAS", LA 100 FM
+https://mdstrm.com/lista-de-reproducción-de-transmisión-en-vivo/68b74fd1d6512526f1f7c75a.m3u8?uid=7G05Do7ndxTh4u1jN2UyEXCbSCrM9JuK&sid=3lfM8IjM9DCSZZHltclcB2zl5Hm5dsC9&pid=TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl&pid_dvr=13lVoWZoqlJzCHd3YL5Iw5dtPquYyrSI&an=screen&at=we b-app&av=v6.0.234&ref=https%3A%2F%2Fla100.cienradios.com%2F&res=713x401&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2268b74fd1d6512526f1f7c75a%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl%22%2Csu
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NDe0mLg_tlYLfnYyTw5Rg38r3ykdR7zBzw&s" título del grupo="RADIOS ARGENTINAS", ASPEN 102.3
+https://val04.ride.com.ar/tvmia/an67/lista de reproducción.m3u8
+
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="NOTICIAS NACIONALES", Ar|12
+http://190.7.19.197:232/play/a00o/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_Diputados_TV.png/960px-Logo_Diputados_TV.png" group-title="NOTICIAS NACIONALES", Diputados TV
+http://200.106.13.204:8000/play/a0cu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.revistachacra.com.ar/files/image/13/13469/57519faf73582.png" group-title="NOTICIAS NACIONALES", CHACRA TV
+https://g2.vxral-slo.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+
+#EXTINF:-1 título-grupo="LATINO",Panamericana
+http://179.1.148.246:8888/play/a0af/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/xl/radio82500_1538682591.jpg" group-title="RADIOS ARGENTINAS", FM FRONTERA 93.1 TUNUYAN (SOLO AUDIO)
+https://radiolinksmedia.net.ar/7105
+
+
+
+
