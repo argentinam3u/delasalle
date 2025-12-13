@@ -801,5 +801,9 @@ http://179.1.148.246:8888/play/a0af/index.m3u8
 https://radiolinksmedia.net.ar/7105
 
 
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/2/101912.v8.png" group-title="RADIOS ARGENTINAS", ESTACION ZAFIRO FM 89.5 (SOLO AUDIO)
+https://01.solumedia.com.ar:9030/stream
+
+
 
 
