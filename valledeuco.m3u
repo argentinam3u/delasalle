@@ -178,6 +178,9 @@ https://github.com/argentinam3u/tvvalledeuco/raw/main/telefe.streamPlaylist.m3u8
 https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenendtime=1765652024&wowzatokenstarttime=0&wowzatokenhash=9ly5cpr69h0na1qAF6FnhiIy2T3bFZ4vmad22wE3OK4=
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg/2048px-Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.svg.png" group-title="ARGENTINA", TV PUBLICA PAMPEANA
+https://stream.arcast.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="BUENOS AIRES", CANAL 8 MENDOZA
