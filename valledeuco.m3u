@@ -184,7 +184,7 @@ https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenen
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/6c/b0/60/6cb060c457fe79ddc0f4b367cf77d36f.jpg" group-title="LATINOS", RED 1 BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(UF9SQ7rVywVuv0bGPdLIIspsScV-6n9RdlQwyXTDFdJcHtF9McG5lbibP_132rR0cpBpjD1yYBnYuvunOuXeIBoxXp-fYT2vWoz-HKLEvnIP9Pxyl09wPD9EoomKT3le)/dm/3/x9n2qyk/d/stream-480-1765643028.ts
+https://live.eu-north-1b.cf.dmcdn.net/sec2(UF9SQ7rVywVuv0bGPdLIIspsScV-6n9RdlQwyXTDFdJcHtF9McG5lbibP_132rR0cpBpjD1yYBnYuvunOuXeIBoxXp-fYT2vWoz-HKLEvnIP9Pxyl09wPD9EoomKT3le)/dm/3/x9n2qyk/d/live-480.m3u8
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR INTERNATIONAL 
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
