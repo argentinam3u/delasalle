@@ -183,6 +183,9 @@ https://stream.arcast.ar/canal8mdp/ngrp:canal8mdp_all/playlist.m3u8?wowzatokenen
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="BUENOS AIRES", CANAL 8 MENDOZA
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.reduno.com.bo/" group-title="LATINOS", RED 1 BOLIVIA
+https://live.eu-north-1b.cf.dmcdn.net/sec2(iOROBKe7BPagzEgjVBo5t5qYhUalwicJv_rTwIWJ42pWAH7OyJRWjKY0oJfMAmtTG1OggjiUMrHg6uvj8VEBWA0cOzslrIX7IlZey_GYIpOcZBlHuXUw_WVCwfftrVjE)/dm/3/x9n2qyk/d/live-480.m3u8
+
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR INTERNATIONAL 
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
