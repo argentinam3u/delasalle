@@ -130,8 +130,7 @@ http://143.0.67.75:8000/play/a07b/index.m3u8
 
 
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
-http://143.0.67.75:8000/play/a01s/index.m3u8
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765704589/ei/LS8-aZfKCYuN4dUPnJXv-Ao/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/Hb0GIEL8nWc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51684460/txs/51684460%2C51684461%2C51684462/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3C5dhuzwn1PV6FXY_7ullQwBEM1yivMIh-KRkqWdsW22foQbHeXkgTHY23AxDEC8iVmtu4GTina/spc/wH4QqxboAMBpOUATymgNHJnuQ2n3ESlTj3ZXr6SaX3-sh6S86zeE14GOa2lOt8sujjM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgGDXwdby2SzTPtfRK1dBjuAPwGAB8VLrJbm0LhTn8wloCIEWiQ1C6fMHi3rrgqLVD-yGfPyyz3oyS_o8qmGgGeJbL/file/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/C5N.jpg" group-title="NACIONALES", C5N
