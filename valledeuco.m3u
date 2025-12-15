@@ -819,6 +819,10 @@ https://01.solumedia.com.ar:9030/stream
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1642153436878712832/f1RT_aEA_400x400.jpg" group-title="RADIOS ARGENTINAS", ESTACION DEL SOL MENDOZA (SOLO AUDIO)
 https://edge-recdirect.masterhost.com.ar/st1/icy/estacion_del_sol_1009/radio.mp3/:8100
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKelKSEi9HoRVrZGjbBtgjZpa_KEQo6PyGBQ&s" tvg-language="Español" group-title="Internacionales", Antena 3
+http://181.79.81.145:8000/play/a1bd
+
+
 
 
 
