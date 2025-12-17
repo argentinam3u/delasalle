@@ -761,6 +761,9 @@ https://streaming01.mikrolive.tv/bayrestv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal3argentina.tv/wp-content/uploads/2018/11/cropped-logoweb.png" group-title="AMBA", CANAL 3 ARGENTINA
 https://stmv6.voxtvhd.com.br/canal3argentina/canal3argentina/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT4gbANSM7ZuvPP3MXVX3w-7W4MqVT09hoGmw&usqp=CAU" group-title="NACIONALES", LA 100
+https://mdstrm.com/lista-de-reproducción-de-transmisión-en-vivo/68b74fd1d6512526f1f7c75a.m3u8?uid=7G05Do7ndxTh4u1jN2UyEXCbSCrM9JuK&sid=3lfM8IjM9DCSZZHltclcB2zl5Hm5dsC9&pid=TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl&pid_dvr=13lVoWZoqlJzCHd3YL5Iw5dtPquYyrSI&an=screen&at=we b-app&av=v6.0.234&ref=https%3A%2F%2Fla100.cienradios.com%2F&res=713x401&without_cookies=false&listenerid=&dnt=true&CMCD=cid%3D%2268b74fd1d6512526f1f7c75a%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22TCiiNMZDgBJhxkGOSSUFRvqAHdITBgMl%22%2Csu
+
 #EXTINF:-1 tvg-logo="https://www.proradios.net/themes/default/images/radios/logo-ar-laboca.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1 (AUDIO SOLO)
 https://s24.myradiostream.com/14984/escuchar.mp3
 
