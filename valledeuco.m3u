@@ -68,8 +68,8 @@ https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
 #EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV
-http://201.217.246.177:8000/play/a06h/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV ARGENTINA
+http://200.80.230.123:8000/play/a06h/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://45.5.151.62:8000/play/a09h/index.m3u8
@@ -348,8 +348,6 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w186437136_b8
 http://201.217.246.177:8000/play/a024/index.m3u8
 
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="NACIONALES", DEPORTV ARGENTINA
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 
 
@@ -531,7 +529,7 @@ http://179.1.148.246:8888/play/a0j7/index.m3u8
 http://179.1.148.246:8888/play/a09w/index.m3u8
 
 #EXTINF:-1 group-title="LATINO",Las Estrellas HD
-http://190.233.83.45:1983/play/a1tm/index.m3u8
+http://45.5.151.62:8000/play/a06q/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
 http://liketv.pro:80/User1626/28TM4MEU66/17627.ts
