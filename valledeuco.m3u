@@ -11,13 +11,12 @@ http://143.0.67.75:8000/play/a05c/index.m3u8
 http://143.0.67.75:8000/play/a02t/index.m3u8
 
 
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="TELECENTRO", CNN en Español
+http://181.224.226.128:5000/play/a05o/index.m3u8
 
-#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Español" group-title="Internacionales", CNN en Español
-http://200.113.4.75:7210/play/a005/index.m3u8
 
-
-#EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" ​​tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="Internacionales", Telemundo Internacional
-http://200.113.4.75:7210/play/a018/index.m3u8
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Español" group-title="TELECENTRO", Telemundo Internacional
+http://186.33.40.97:8789/jugar/73
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
 http://190.104.67.135:234/play/a07c/index.m3u8
