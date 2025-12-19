@@ -861,6 +861,6 @@ https://media.radios.ar:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e4/Logotipo_de_TV_Azteca.png" group-title="LATINOS", TV AZTECA
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
-
-
+#EXTINF:-1 group-title="LATINOS", Dance TV Melodic HD
+https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
