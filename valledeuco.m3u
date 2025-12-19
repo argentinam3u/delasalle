@@ -42,7 +42,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD ARGENTINA
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1766163604~exp=1766170804~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=061f36d07f86647865f720f7d0a24d0c23298284ebdacd4525b6a8d111e7be7c
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1766171806~exp=1766179006~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=7dd6c5ca9ce7c43eacfe41e2a32e9864ab5d0faea3ab31823aaa48b7da8bd0c9
 
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA ARGENTINA
