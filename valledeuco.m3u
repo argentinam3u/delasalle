@@ -54,7 +54,8 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="NACIONALES", CANAL 9 HD BUENOS AIRES 
-http://143.0.67.75:8000/play/a04h/index.m3u8
+http://200.80.230.123:8000/play/a0a9/index.m3u8
+
 
 #EXTINF:-1 tvg-id="5tv.ar@SD",5TV Corrientes (480p) [No 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
