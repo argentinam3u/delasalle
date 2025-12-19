@@ -50,6 +50,9 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA ARGENTINA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA 
+https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="NACIONALES", CANAL 9 HD BUENOS AIRES 
 http://143.0.67.75:8000/play/a04h/index.m3u8
 
