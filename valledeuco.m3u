@@ -43,6 +43,8 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE ARGENTINA 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1766253606~acl=%2f*~data=hdntl~hmac=aec5df826237098b6a218c436eb16ac5f912e483a1e75c02c0c1869dbea43007/master-mtlf.m3u8
 
 
 
