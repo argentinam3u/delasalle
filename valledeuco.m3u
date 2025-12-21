@@ -182,7 +182,7 @@ https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 
 #EXTINF:-1, Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+http://45.5.151.62:8000/play/a03w/index.m3u8
 
 
 #EXTINF:-1,Latino | CNN en Espanol
