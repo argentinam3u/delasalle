@@ -74,7 +74,7 @@ https://lilac01.pontiscloud.com/bpk-tv/canal6sanrafael/default/index.mpd
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="MENDOZA", AURORA ARGENTINA 91.3
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.unidiversidad.com.ar/img/home/footer/Uni_logo_footer.svg" group-title="MENDOZA", SEÑAL U
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Senal-U-Uncuyo-en-vivo-Online.png" group-title="MENDOZA", SEÑAL U
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV ARGENTINA
