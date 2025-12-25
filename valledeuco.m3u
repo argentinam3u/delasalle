@@ -870,3 +870,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 group-title="LATINOS", Dance TV Melodic HD
 https://mbit1.worldcast.tv/dancetelevisionnine/multibit.m3u8
 
+#EXTINF:-1tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="CINE", CANAL DE ROMANCE
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/canal-romance/manifiesto.m3u8
+
