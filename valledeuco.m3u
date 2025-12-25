@@ -44,7 +44,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD SATELITAL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE SATELITAL
 http://45.5.151.62:8000/play/a09d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD 
@@ -78,7 +78,7 @@ https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
 https://live20.bozztv.com/giatv/giatv-canal30tda/canal30tda/chunks.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV ARGENTINA
-http://200.80.230.123:8000/play/a06h/index.m3u8
+http://201.217.247.165:8000/play/a07f/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 http://45.5.151.62:8000/play/a09h/index.m3u8
