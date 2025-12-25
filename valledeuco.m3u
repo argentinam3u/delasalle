@@ -10,7 +10,7 @@ http://45.5.151.62:8000/play/a09a/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3LatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
 http://45.5.151.62:8000/play/a09b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Bolivisi%C3%B3n2025.png" group-title="LATINO 2",BOLIVISIÓN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVX5TDZKTESYeqcg7V7W16qS_gTX2IwdqKSg&s" group-title="LATINO 2",BOLIVISIÓN
 http://45.5.151.62:8000/play/a04x/index.m3u8
 
 
