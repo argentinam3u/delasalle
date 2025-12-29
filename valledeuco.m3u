@@ -48,7 +48,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 http://45.5.151.62:8000/play/a09d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD 
-http://190.7.19.197:232/play/a059/index.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1767036983~exp=1767044183~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f0c2fc7e983928a371aef4ca5d1c672054da1001820cc80ce2bf326d88521146
 
 
 
