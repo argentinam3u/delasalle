@@ -48,7 +48,7 @@ https://g1.proy-slo.transport.edge-access.net:443/a07/ngrp:americahls-100056_all
 http://45.5.151.62:8000/play/a09d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD 
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1767036983~exp=1767044183~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f0c2fc7e983928a371aef4ca5d1c672054da1001820cc80ce2bf326d88521146
+http://190.7.19.197:232/play/a059/index.m3u8
 
 
 
@@ -228,8 +228,7 @@ https://smt-usr-edge02.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canal8mardelplata.com.ar/wp-content/uploads/2023/02/Mi-8-alta-06.png" group-title="BUENOS AIRES", CANAL 8 MENDOZA
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/1200x/6c/b0/60/6cb060c457fe79ddc0f4b367cf77d36f.jpg" group-title="LATINOS", RED 1 BOLIVIA
-https://live.eu-north-1b.cf.dmcdn.net/sec2(UF9SQ7rVywVuv0bGPdLIIspsScV-6n9RdlQwyXTDFdJcHtF9McG5lbibP_132rR0cpBpjD1yYBnYuvunOuXeIBoxXp-fYT2vWoz-HKLEvnIP9Pxyl09wPD9EoomKT3le)/dm/3/x9n2qyk/d/live-480.m3u8
+
 
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://image.roku.com/developer_channels/prod/b1775f8ede21fb711fd46f4c273f39f7e0869a6901a5660c8bca90ecaaf14934.png" group-title="NOTICIAS INTERNACIONAL", TELESUR INTERNATIONAL 
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
@@ -488,7 +487,8 @@ https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
-http://190.104.67.135:234/play/a06s/index.m3u8
+http://201.217.247.165:8000/play/a06s/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="NACIONALES", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
