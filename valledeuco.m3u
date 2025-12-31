@@ -911,7 +911,7 @@ https://db57ce9cb585443b89cc08f6e6d00a61.mediatailor.us-west-2.amazonaws.com/v1/
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRE2EMGDEiFhQzM0_6cs-b7ZOyfEzEEctEaA&s" group-title="CINE", ROMANCE CHANNEL TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRE2EMGDEiFhQzM0_6cs-b7ZOyfEzEEctEaA&s" group-title="CINE", ROMANCE CHANNEL TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
 
 
@@ -920,7 +920,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
-#EXTINF:-1 group-title="LATINO",America TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/960px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="LATINO",America TV HD
 http://179.1.148.246:8888/play/a0mk/index.m3u8
 
 
