@@ -27,6 +27,9 @@ http://190.104.67.135:234/play/a07c/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" audio-track="spa" group-title="Telenovelas", Pasiones
 http://179.1.148.246:8888/play/a0f8/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Telenovelas", TL Novelas
+http://201.217.247.165:8000/play/a08b/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
 https://jireh-1-hls-video-br-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?dpssid=b23436798896914d30e3b0a2&sid=ba5t1l1xb217139280026914d30e3b09d&ndvc=1
 
@@ -160,7 +163,7 @@ http://201.217.247.165:8000/play/a067/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
 http://201.217.247.165:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", TNT
-http://201.217.247.165:8000/play/a08b/index.m3u8
+http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://201.217.247.165:8000/play/a065/index.m3u8
 
