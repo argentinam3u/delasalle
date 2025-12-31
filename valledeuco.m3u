@@ -127,7 +127,7 @@ http://201.217.247.165:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" audio-track="spa" group-title="Infantiles", Discovery Kids
 http://201.217.247.165:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-id="NickJrLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
-http://201.217.247.165:8000/play/a07s/index.m3u8
+http://179.1.148.246:8888/play/a0d5/index.m3u8
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
 http://201.217.247.165:8000/play/a08x/index.m3u8
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
@@ -920,7 +920,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 
-
+#EXTINF:-1 group-title="LATINO",America TV HD
+http://179.1.148.246:8888/play/a0mk/index.m3u8
 
 
 
