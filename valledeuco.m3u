@@ -122,7 +122,7 @@ http://201.217.247.165:8000/play/a07l/index.m3u8
 http://201.217.247.165:8000/play/a083/index.m3u8
 #EXTINF:-1 tvg-id="ar#nickelodeon-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png" audio-track="spa" group-title="Infantiles", Nickelodeon
 http://201.217.247.165:8000/play/a08y/index.m3u8
-#EXTINF:-1 grupo-título="LATINO",Nick Music
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/yRf1Lc4ny6De30xjU7T3p9NvW3NdJn6JLybhsHWQTyOOeiRg246it13D__216mE5tyzHvr2u=s900-c-k-c0x00ffffff-no-rj" grupo-título="LATINO",Nick Music
 http://179.1.148.246:8888/play/a09o/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png" audio-track="spa" group-title="Infantiles", Disney Channel
 http://201.217.247.165:8000/play/a06w/index.m3u8
