@@ -196,8 +196,7 @@ http://190.108.89.228:8000/play/a05w/index.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 
-#EXTINF:-1, Radio Mitre 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1765596337/ei/UIg8aYfvPMebobIPrr_pgQo/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/ybXIVVg6epw.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3CeAJ-UDV349CyoqUlxk34IzdeqDpgN8uSjh2U536Xeb-nZ7jep5zVN-uoaO0cLXhLlLsCOsGge/spc/wH4Qq5-TW0T0ht2NprAaGxCwOrgCLKzw7qexdQqGxceusHJRsHU7NYJVMl0ZU5JpD3E/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPszvJJidfg8-4YerDHo-5xnN-3KhL6nesZ-MxMHWYudAiBKD4B45VUvA9P1C_CKHymNJm3DS0wwGvIcAS7yrB-JUQ%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1,Telemax Argentina
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
@@ -706,8 +705,7 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/C20D/output.mpd
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1544_Megaclassic_TV.png" group-title="CORDOBA", Megaclassic TV 
 https://stmvideo1.livecastv.com/megaclassic/megaclassic/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSON
-https://live20.bozztv.com/akamaissh101/ssh101/simgit/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/30/2/usa-network-logo-png_seeklogo-307539.png" group-title="TELECENTRO", USA PELICULAS
 http://200.80.230.123:8000/play/a023/index.m3u8
@@ -910,6 +908,16 @@ http://179.1.148.246:8888/play/a0mk/index.m3u8
 https://ch115-xumo-drct-em2mv.fast.nbcuni.com/live/master.m3u8
 
 
+
+#EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" pista de audio="spa" título del grupo="TELECENTRO", MTV CLASSIC
+https://jmp2.uk/plu-66a11a21a79dea0008aa90ca.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2017/02/14231840_10153707288740933_8300669370715055728_o-e1486491349688.png?w=798&h=450&crop=1" group-title="TELECENTRO", 
+PLUTO Vevo POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=%20%5BMusic%5D%20%5B2545%5D%20%5BUS%5D%20
 
 
 
