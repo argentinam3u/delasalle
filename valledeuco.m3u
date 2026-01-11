@@ -65,6 +65,9 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA 
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s900-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", SIETE MENDOZA HD
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768166438/ei/xr9jaZKzAYyt1sQP-eOGqAc/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/Vh8xmLBJtR8.407/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/ss/1/ssa/1/bui/AW-iu_r6_W4qnH9ASt62_XRI871Gbtox7l5B-owoa_RoP-uybR_Z0jsGQ0Ed1n3tKKunI-GuPDDMOn6S/spc/q5xjPKcaRx7bnDn3nhPoi0wUlRgVVBelUccSvVvq3hKJ_YI_mvT9X9SmPPYKNpIT6NE/vprv/1/go/1/ns/uHPSbWYqVb5YLzrFc9AYckAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/n/TI_snhQKNC_thsuRqfJ/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgde9gn25MUY_Ve9hV0RYQaDOO1rJXh0jpsbGK6wSJbl0CIBUuIJqa5T-YOhhhaPrLx7JJU6dk4rhsUGR2t_Yj8gCa/file/index.m3u8
+
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="NACIONALES", CANAL 9 HD BUENOS AIRES 
 http://200.80.230.123:8000/play/a0a9/index.m3u8
@@ -282,10 +285,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1,MEGAHD
 http://190.90.154.73:8080/play/a03a/index.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmZXUMTPaLjslA4b0_5Jq-J1re_XruOWA0uqV5fuBiOZJCwYCKQtrZtMZsanXU4w8R8-fiLHPfOJ70pRcB7FZdBJs_KD5S8bSUT wGbvCrOzL9L5QOdDlYhquReKtiOH3I5SJBtoBnbQo1_L8leA1oj1q1ZEv0aV6vD9Mvq3RPtYeD-yOjelQHIL3GLRk/s200-rw/large.242828769_ElSieteMendoza.png.4a00e8a203d1058a5898ebce876d7d19.png" group-title="MENDOZA", SIETE MENDOZA HD
-https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Lista de reproducción.m3u8?sense=true
 
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 
