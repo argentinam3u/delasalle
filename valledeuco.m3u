@@ -288,9 +288,8 @@ http://190.90.154.73:8080/play/a03a/index.m3u8
 https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
 
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 24 HORAS
-http://190.102.123.28:8097/play/a0dh/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFRANCE.png" group-title="CUYO ARGENTINA",France24 Español 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768163140/ei/5LJjadjwFP7p1sQP98yFyQs/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/Y-IlMeCCtIg.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AW-iu_qR7mIP7cro8SXNQowvK_-J6uPrJ2aEekD40mt8shuMuJgyuNSO04Ekmv-7JEd350s0CYCy9Fso/spc/q5xjPNn9TAHpQjoaywytJaKHSb1LKAqiVETVjBZV7jUA_d80tvyo6gtgZHAJpkYYQb0/vprv/1/go/1/ns/kFSLGNf752mG6AWHHqGj7Q8R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/iHryNWNBpQJZOe7Knn6/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgIwQrEtqrcBn-JnLuA84MsumolPuP28evpM_jHM7yY5YCIDTWE2AADtXDzYDIX2_J6Eg-8dy5vB43VoX9Qfq66qtA/file/index.m3u8
 
 
 
