@@ -67,7 +67,7 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://unlimited1-saopaulo.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s900-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", SIETE MENDOZA HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1768532221/ei/nVRpaeSzK-LY1sQPg5622Q8/ip/2800%3A6c0%3A2%3A0%3A0%3A0%3A0%3A23e/id/Vh8xmLBJtR8.407/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51666466/txs/51666463%2C51666464%2C51666465%2C51666466%2C51666467/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/ss/1/ssa/1/bui/AW-iu_p4UKWB5j5fwV6qepFnzx-s4K5AePTwg3d_UtOfbanPHwk_T18kWXRQAJAV-hINkShfQjzX7TZH/spc/q5xjPNIHokv6yIaPnR9JvUdp5PvHhedq5tiPCeifPHbTVQ3pXLTbHFtvrbFpZ2KDCbg/vprv/1/go/1/ns/5hxNOLWcPCuSs0iZtK-jyvQR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/Jausa8qlFQsMvQh_4k2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAK61r-nBkZtaTaLcync5m23t9jQdh0EttAnE-n6yEYc2AiBEEB8x7YMlJiidkbo2wSy4IK0xJnQkOm2q6fKGyzhPsA%3D%3D/file/index.m3u8
+https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="NACIONALES", CANAL 9 HD BUENOS AIRES 
 http://200.80.230.123:8000/play/a0a9/index.m3u8
