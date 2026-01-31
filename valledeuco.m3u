@@ -190,7 +190,7 @@ http://138.121.113.213:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", TNT
 http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
-http://201.217.247.165:8000/play/a065/index.m3u8
+http://45.5.151.62:8000/play/a03u/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Entretenimiento", TNT Series
 http://181.13.252.102:8000/play/a07e/index.m3u8
