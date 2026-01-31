@@ -162,36 +162,38 @@ http://201.217.247.165:8000/play/a08x/index.m3u8
 http://45.173.75.4:2061/play/a099
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
-http://201.217.247.165:8000/play/a087/index.m3u8
+http://138.121.113.213:8000/play/a087/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
-http://201.217.247.165:8000/play/a070/index.m3u8
+http://190.60.37.154:45000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://201.217.247.165:8000/play/a08r/index.m3u8
+http://179.1.148.246:8888/play/a0d8/index.m3u8
 #EXTINF:-1 tvg-id="Space.ar@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
-http://201.217.247.165:8000/play/a071/index.m3u8
+http://181.13.252.102:8000/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="Cinecanal.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
-http://201.217.247.165:8000/play/a089/index.m3u8
+http://181.13.252.102:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="Entretenimiento", AXN
-http://201.217.247.165:8000/play/a09e/index.m3u8
+http://138.121.113.213:8000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannel.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
-http://201.217.247.165:8000/play/a09d/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetworkLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Español" group-title="Entretenimiento", Paramount Channel
-http://201.217.247.165:8000/play/a073/index.m3u8
+http://181.13.252.102:8000/play/a05e/index.m3u8
+
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-http://201.217.247.165:8000/play/a09c/index.m3u8
+http://190.60.37.154:45000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.228.234.133:8000/playlist/tvg-logo/a03s.png" group-title="TELECENTRO", Películas Sony
+http://138.121.114.86:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
-http://201.217.247.165:8000/play/a09i/index.m3u8
+http://181.13.252.102:8000/play/a05j/index.m3u8
+
 #EXTINF:-1 tvg-id="StudioUniversalLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png" audio-track="spa" group-title="Entretenimiento", Studio Universal
-http://201.217.247.165:8000/play/a067/index.m3u8
+http://181.13.252.102:8000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
-http://201.217.247.165:8000/play/a064/index.m3u8
+http://138.121.113.213:8000/play/a064/index.m3u8
 #EXTINF:-1 tvg-id="TNTLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", TNT
 http://45.5.151.62:8000/play/a08q/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 http://201.217.247.165:8000/play/a065/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Entretenimiento", TNT Series
-http://201.217.247.165:8000/play/a08c/index.m3u8
+http://181.13.252.102:8000/play/a07e/index.m3u8
 #EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Telenovelas", TNT Novelas
 http://201.217.247.165:8000/play/a08e/index.m3u8
 
