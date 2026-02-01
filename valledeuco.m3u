@@ -35,7 +35,7 @@ http://138.36.253.13:8008/play/a01j/index.m3u8
 http://201.217.247.165:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BRAVO.png" group-title="BUENOS AIRES",Bravo TV - 27.1TV
-https://jireh-1-hls-video-ar-isp.dps.live/chunks/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/l_36067_297005000_49860.ts?
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", Canal Trece
 http://181.13.252.102:8000/play/a0bg/index.m3u8
