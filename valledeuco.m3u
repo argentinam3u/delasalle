@@ -56,7 +56,7 @@ http://45.5.151.62:8000/play/a09d/index.m3u8
 http://190.7.19.197:232/play/a059/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="NACIONALES", TELEFE HD (OPCIONAL)
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1767987344~exp=1767994544~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=374c7a104a1fbdb3d3d325b7ee0b169a6d53bf0682924d1d38d30ebb3bbd3dfd
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1769992743~exp=1769999943~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=faaa4be02de39107c8995ee01931235bb341811f2c252cddd3eebc502bace654
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 TELEVIDA MENDOZA ARGENTINA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
