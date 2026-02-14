@@ -377,8 +377,7 @@ http://45.5.151.62:8000/play/a08k/index.m3u8
 
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/A_24.jpg" group-title="NOTICIAS NACIONALES", A24  HD
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/0ab4d913-9060-4f8f-a1e7-f1e742fb5a4f:SCL2/master.m3u8
-
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/a2d77806-0249-45a6-8406-ad3d0a8db612:SCL2/master.m3u8
 
 
 
